@@ -1,0 +1,11 @@
+# Ignore pycache
+__pycache__/
+
+# Ignore PDF files, since we may not be allowed to redistribute them
+*.pdf
+
+# Ignore NES files, since we are not allowed to redistribute some
+*.nes
+
+# Ignore logging
+*.log
